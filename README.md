@@ -12,7 +12,7 @@
 - 🤝 Extremely friendly, sociable and highly motivated!
 
 
-- 🎮 I love gaming, watching shows and movies. I am also a huge train enthusiast/railfan 🚅 🚆🚂.  
+- 🎮 I love reading, gaming, watching shows and movies. I am also a huge train enthusiast/railfan 🚅 🚆🚂.  
 
 
 - ⚡ Fun Fact: Fedora by far my favorite Linux distro. Using it as a daily driver, specifically for development.
