@@ -1,4 +1,4 @@
-### <div align="center"> 👋 Hi there! I'm Gabriel (or Gabe, for short) 👋</div>  
+## <div align="center"> 👋 Hi there! I'm Gabriel (or Gabe, for short) 👋</div>  
  
 - 🎯 I am a self-taught, frontend web developer, based in the USA.
 
