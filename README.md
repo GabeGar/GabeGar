@@ -15,7 +15,7 @@
 - 🎮 I love reading, gaming, watching shows and movies. I am also a huge train enthusiast/railfan 🚅 🚆🚂.  
 
 
-- ⚡ Fun Fact: Fedora by far my favorite Linux distro. Using it as a daily driver, specifically for development.
+- ⚡ Fun Fact: Fedora is by far, my favorite Linux distro. Using it as a daily driver and specifically, for web development.
 
 
 <br/>  
