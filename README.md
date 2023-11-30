@@ -1,7 +1,7 @@
 # Hello 👋, I'm Gabe!
 
 ## 💫 About Me:
-🌱 I am a self-taught, web developer, based in the USA.<br>📚 I've am currently learning NextJs. <br>🎯 I’m currently focusing on how to utilize Backend as a service (Baas), supabase, to easily build fullstack applications.<br>🤝 I consider myself an extremely friendly, sociable and highly motivated individual.<br>⚡ I enjoy the experience Fedora Linux gives me as a daily driver, for development.<br>
+🌱 I am a self-taught, web developer, based in the USA.<br>📚 I've am currently learning NextJs.<br>🤝 I consider myself an extremely friendly, sociable and highly motivated individual.<br>⚡ I enjoy the experience Fedora Linux gives me as a daily driver, for development.<br>
 
 
 ## 💻 Tech Stack:
